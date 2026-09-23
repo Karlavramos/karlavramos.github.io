@@ -1,7 +1,25 @@
 ---
-title: "karlavramos.github.io"
+title: "Karla V. Ramos" 
+image: "images/profile-ex.jpg"
+toc: false 
+about:
+    template: jolla
+    image-shape: round 
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/karlavramos/
+          target: _blank
+        - text: Email
+          href: mailto:ramos.karlav@gmail.com
+        - text: GitHub
+          href: https://github.com/Karlavramos
+          target: _blank
+
 ---
 
-This is a Quarto website.
+Karla Ramos' environmental interest began with questioning the source of the stinky smells and mucky appearance of the San Joaquin Delta that ran behind her parents' house in the California Central Valley. This pulled her into researching Stockton's history of water contamination, agricultural run-off, and a local Superfund site. She grew frustrated as her internet searches led to complicated answers and paywalled scholarly articles. This frustration led her to major in Environmental Studies at the University of California, Santa Barbara (UCSB).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+While at UCSB, Karla helped research the impacts of climate change on Olive Ridley sea turtles in Costa Rica, and was an undergraduate research assistant on an oceanographic vessel conducting research on carbon sequestration on the California coast. These experiences led her to realize how much she enjoys scientific communication, public speaking, and environmental education. She brought that into her professional career where she developed environmental education curricula for justice-involved youth, and most recently, when she coordinated college access resources for first-generation students of color. Both jobs taught her the value of data, storytelling, and finding ways to bridge information gaps. 
+
+Through the MEDS program, Karla aims to gain the framework to tell intentional stories with data, creatively visualize information, and make environmental knowledge more accessible.

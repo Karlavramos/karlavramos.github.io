@@ -1,0 +1,31 @@
+---
+title: "My first blog post"
+description: "A short description that appears on the listing page"
+date: 11-04-2026
+categories: [Quarto, R, MEDS, Geospatial]
+bibliography: refrences.bib
+citation: 
+    url: https://karlavramos.github.io/posts/2026-04-test-blog/
+image: /Users/karlaramos/Desktop/random/the-everygirl-coastal-grandma-tech-26-desktop-2.png
+draft: false #post on website 
+---
+
+Here is where your blog posts content begins....
+
+### Method 1 to add footnote
+
+I am going to inset a footnote here[^1].
+
+[^1]: Here is the associated footnote text.
+
+### Method 2 to add footnote
+
+I am going to insert and inlcine footnote here[^2].
+
+[^2]: Here is my footnote
+
+```{r}
+code_example <- 1 + 1
+```
+
+This was explored in previous work [@csik2021].

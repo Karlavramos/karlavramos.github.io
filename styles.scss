@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+
+
+
+// Fonts
+$sen: "Sen", sans-serif;
+
+// Colors (define your palette)
+$navy: 	#4a565d;
+$dark-brown: #3b2016;
+$blue3: #b3cacf;
+$blue2: #c5d4d3;
+$blue1:#d6ded7;
+$grey-blue: #e8e7da;
+$cream2:#f9f1de;
+$cream: #FDFBF7;
+
+
+// Assign to Quarto Sass variables
+$navbar-bg: $dark-brown;        // navbar background
+$navbar-fg: $blue3;   // navbar text/icons
+$navbar-hl: $blue2;       // navbar hover highlight
+$body-bg: $cream;    // page background
+$body-color: $dark-brown;        // page text
+$footer-bg: $dark-brown;        // footer background
+$link-color: $dark-brown;      // hyperlinks
+$code-bg: $cream;          // inline code background
+$code-color: $dark-brown;      // inline code text
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  letter-spacing: 5px;
+  font-weight: 800;
+}
+

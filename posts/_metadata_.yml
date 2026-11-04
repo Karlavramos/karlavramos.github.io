@@ -1,0 +1,12 @@
+# Only renders the document when there is a change
+freeze: auto 
+
+# Banner style title blocks 
+title-block-banner: true 
+
+# Author info applied to all posts ----
+author:
+     name: Karla V. Ramos 
+     url: https://karlavramos.github.io
+     affiliation: Master of Environmental Data Science @ The bren school
+     affiliation-url: https://ucsb-meds.github.io/

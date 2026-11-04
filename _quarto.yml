@@ -9,16 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - posts.qmd
       - href: resources.qmd
         text: Resources
 
 
 format:
   html:
-    theme:
-      light: minty
-      dark: solar
-    css: styles.css
+    theme: styles.scss
+    mainfont: <style> @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
     toc: true
     page-layout: full
 

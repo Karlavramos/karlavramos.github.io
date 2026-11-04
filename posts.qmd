@@ -1,0 +1,8 @@
+---
+title: "Blog Posts"
+listing: 
+    contents: posts #must mathc your folder name for your blog posts 
+    type: grid # Options are default, grid, or table
+    sort: "date desc" # newer posts first 
+    categories: true #enables category filtering
+---
